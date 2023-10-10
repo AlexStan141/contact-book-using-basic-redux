@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "contact-book-using-basic-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://AlexStan141.github.io/contact-book-using-basic-redux/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
