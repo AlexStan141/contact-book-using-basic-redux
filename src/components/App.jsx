@@ -1,4 +1,5 @@
 import Contact from './Contact/Contact';
+import css from './App.module.css';
 
 const testContact = {
   id: 'id-1',
@@ -7,5 +8,9 @@ const testContact = {
 };
 
 export const App = () => {
-  return <Contact contact={testContact}></Contact>;
+  return (
+    <div className={css.container}>
+      <Contact contact={testContact}></Contact>
+    </div>
+  );
 };
