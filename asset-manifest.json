@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/contact-book-using-basic-redux/static/css/main.d89708e0.css",
-    "main.js": "/contact-book-using-basic-redux/static/js/main.40f6d027.js",
+    "main.css": "/contact-book-using-basic-redux/static/css/main.703b6be1.css",
+    "main.js": "/contact-book-using-basic-redux/static/js/main.8c320f61.js",
     "index.html": "/contact-book-using-basic-redux/index.html",
-    "main.d89708e0.css.map": "/contact-book-using-basic-redux/static/css/main.d89708e0.css.map",
-    "main.40f6d027.js.map": "/contact-book-using-basic-redux/static/js/main.40f6d027.js.map"
+    "main.703b6be1.css.map": "/contact-book-using-basic-redux/static/css/main.703b6be1.css.map",
+    "main.8c320f61.js.map": "/contact-book-using-basic-redux/static/js/main.8c320f61.js.map"
   },
   "entrypoints": [
-    "static/css/main.d89708e0.css",
-    "static/js/main.40f6d027.js"
+    "static/css/main.703b6be1.css",
+    "static/js/main.8c320f61.js"
   ]
 }
