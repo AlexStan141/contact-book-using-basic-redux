@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    box-shadow: 3px 3px orange;
+    margin-bottom: 30px;
+    gap: 30px;
+    align-items: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.data {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

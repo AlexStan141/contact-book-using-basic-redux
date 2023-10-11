@@ -1,16 +1,11 @@
+import Contact from './Contact/Contact';
+
+const testContact = {
+  id: 'id-1',
+  name: 'Stan Alexandru',
+  number: '0729626513',
+};
+
 export const App = () => {
-  return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
-  );
+  return <Contact contact={testContact}></Contact>;
 };
